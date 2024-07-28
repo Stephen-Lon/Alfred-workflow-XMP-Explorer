@@ -1,7 +1,7 @@
 # Alfred-workflow-XMP-Explorer
 A workflow to search for and view photo metadata
 
-This ia very much a first release and I am interested to know if it works, and is helpful, for others.
+This is very much a first release and I am interested to know if it works, and is helpful, for others.
 
 # Prerequisites for using this workflow
 1. You must have installed the free command line utility [ExifTool](https://exiftool.org/).
