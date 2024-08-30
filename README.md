@@ -25,8 +25,8 @@ Note that you can search the results either by the filename or the description.
 
 If, on a selected filename, you press:
 - <kbd>⏎</kbd> you can (according to the setting in the workflow configuration) view the related image file either in Alfred's Image View (the default) or in your default app for that file;
-- <kbd>⌥</kbd><kbd>⏎</kbd> you can view a selection of the image metadata;
-- <kbd>⇧</kbd><kbd>⏎</kbd> you can reveal the related image file in Finder.
+- <kbd>⇧</kbd><kbd>⏎</kbd> you can view a selection of the image metadata;
+- <kbd>⌥</kbd><kbd>⏎</kbd> you can reveal the related image file in Finder.
 
 Here's an example of the viewed metadata for a file:
 <img width="764" alt="Metadata" src="https://github.com/user-attachments/assets/63d5e96d-0d89-4909-9f17-90e13fb4a216">
